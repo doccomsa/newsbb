@@ -115,7 +115,7 @@ class SbbApplicationTests {
 		
 		assertEquals(1, answerList.size());
 		assertEquals("네 자동으로 생성됩니다." , answerList.get(0).getContent());
-		*/
+		
 		
 		
 		for(int i=1; i<=300; i++) {
@@ -124,7 +124,7 @@ class SbbApplicationTests {
 			this.questionService.create(subject, content, null);
 		}
 		
-		
+		*/
 		
 		
 		
